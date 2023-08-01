@@ -3,7 +3,7 @@ CS229 Final Project
 
 # Reinforcement Learning in Super Mario Bros: Impact of Learning Rates on PPO Algorithm
 
-# See attached PDF for full project 
+# See attached [PDF](CS229_Project.pdf) for full project 
 
 ![Project](mario.jpg)
 
